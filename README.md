@@ -1,6 +1,6 @@
 # PwC Power BI Job Simulation 🚀
 
-Welcome to the repository for the **Forage PwC Power BI Internship**! 🎉 This exciting internship offers you a hands-on experience with **Power BI**, one of the most widely-used business intelligence tools in the industry. Partnering with **PwC**, a global leader in professional services, this program will immerse you in real-world applications of data visualization and business intelligence. 💡
+Welcome to the repository for the **Forage PwC Power BI Internship**! 🎉 This exciting internship offers you a hands-on experience with **Power BI**, one of the most widely-used business intelligence tools in the industry. Partnering with PwC, a global leader in professional services, this program will immerse you in real-world applications of data visualization and business intelligence. 💡
 
 ## About the Forage PwC Power BI Internship 📊
 
